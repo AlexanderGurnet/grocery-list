@@ -1,0 +1,10 @@
+{
+  "posts": [
+    {
+      "id": "cfd90ffd-94da-4500-bd56-7be1e2ac46c3",
+      "text": "Test Entry",
+      "amount": 5,
+      "isFinished": false
+    }
+  ]
+}
